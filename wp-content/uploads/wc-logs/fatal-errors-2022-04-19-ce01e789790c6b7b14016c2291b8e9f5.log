@@ -1,0 +1,54 @@
+2022-04-19T06:24:45+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\xampp\htdocs\khushjwellers\wp-content\themes\rara-ecommerce\inc\custom-functions.php:564
+Stack trace:
+#0 C:\xampp\htdocs\khushjwellers\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\xampp\htdocs\khushjwellers\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\khushjwellers\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\khushjwellers\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown in C:\xampp\htdocs\khushjwellers\wp-content\themes\rara-ecommerce\inc\custom-functions.php on line 564
+
+2022-04-19T06:24:46+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\xampp\htdocs\khushjwellers\wp-content\themes\rara-ecommerce\inc\custom-functions.php:564
+Stack trace:
+#0 C:\xampp\htdocs\khushjwellers\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\xampp\htdocs\khushjwellers\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\khushjwellers\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\khushjwellers\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown in C:\xampp\htdocs\khushjwellers\wp-content\themes\rara-ecommerce\inc\custom-functions.php on line 564
+
+2022-04-19T06:32:28+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\xampp\htdocs\khushjwellers\wp-content\themes\rara-ecommerce\inc\custom-functions.php:564
+Stack trace:
+#0 C:\xampp\htdocs\khushjwellers\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\xampp\htdocs\khushjwellers\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\khushjwellers\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\khushjwellers\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown in C:\xampp\htdocs\khushjwellers\wp-content\themes\rara-ecommerce\inc\custom-functions.php on line 564
+
+2022-04-19T06:32:28+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\xampp\htdocs\khushjwellers\wp-content\themes\rara-ecommerce\inc\custom-functions.php:564
+Stack trace:
+#0 C:\xampp\htdocs\khushjwellers\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\xampp\htdocs\khushjwellers\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\khushjwellers\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\khushjwellers\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown in C:\xampp\htdocs\khushjwellers\wp-content\themes\rara-ecommerce\inc\custom-functions.php on line 564
+
+2022-04-19T06:33:11+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\xampp\htdocs\khushjwellers\wp-content\themes\rara-ecommerce\inc\custom-functions.php:564
+Stack trace:
+#0 C:\xampp\htdocs\khushjwellers\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\xampp\htdocs\khushjwellers\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\khushjwellers\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\khushjwellers\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown in C:\xampp\htdocs\khushjwellers\wp-content\themes\rara-ecommerce\inc\custom-functions.php on line 564
+
+2022-04-19T06:33:11+00:00 CRITICAL Uncaught Error: Call to undefined function seva_get_fonts() in C:\xampp\htdocs\khushjwellers\wp-content\themes\rara-ecommerce\inc\custom-functions.php:564
+Stack trace:
+#0 C:\xampp\htdocs\khushjwellers\wp-includes\class-wp-hook.php(307): rara_ecommerce_dynamic_mce_css_ajax_callback('')
+#1 C:\xampp\htdocs\khushjwellers\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\khushjwellers\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\khushjwellers\wp-admin\admin-ajax.php(187): do_action('wp_ajax_rara_ec...')
+#4 {main}
+  thrown in C:\xampp\htdocs\khushjwellers\wp-content\themes\rara-ecommerce\inc\custom-functions.php on line 564
+
